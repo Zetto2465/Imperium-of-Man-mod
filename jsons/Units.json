@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
+		"name": "Space Marines",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Imperium",
+		"replaces": "Mechanized Infantry",
+		"movement": 3,
+		"strength": 95,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredTech": "Mobile Tactics",
+		"requiredResource": "Aluminum",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
